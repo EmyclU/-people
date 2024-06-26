@@ -1,0 +1,50 @@
+div.box:nth-child(1):hover{
+    border: solid 4px rgb(220, 215, 59);}
+div.box:nth-child(2):hover{
+    border: solid 4px rgb(207, 217, 26);}
+    div.box:nth-child(3):hover{
+    border: solid 4px rgb(96, 190, 59);}    
+    div.box:nth-child(4):hover{
+    border: solid 4px rgb(196, 203, 58);}  
+    div.box:nth-child(5):hover{
+    border: solid 4px rgb(169, 147, 59);} 
+     div.box:nth-child(6):hover{
+     border: solid 4px rgb(64, 155, 45);}
+    div.box:nth-child(7):hover{
+     border: solid 4px gray;}
+    div.box:nth-child(8):hover{
+    border: solid 4px rgb(229, 226, 61);}
+    div.box:nth-child(9):hover{
+    border: solid 4px rgb(47, 184, 205);}
+    div.box:nth-child(10):hover{
+    border: solid 4px rgb(47, 182, 206);}
+     div.box:nth-child(11):hover{
+    border: solid 4px rgb(62, 60, 70);}
+    div.box:nth-child(12):hover{
+        border: solid 4px rgb(17, 19, 18);}
+    div.box:nth-child(13):hover{
+        border: solid 4px rgb(209, 225, 29);}
+        div.box:nth-child(14):hover{
+        border: solid 4px rgb(72, 75, 8);}    
+        div.box:nth-child(15):hover{
+        border: solid 4px rgb(30, 180, 65);}  
+        div.box:nth-child(16):hover{
+        border: solid 4px rgb(69, 136, 75);} 
+         div.box:nth-child(17):hover{
+         border: solid 4px rgb(39, 139, 31);}
+        div.box:nth-child(18):hover{
+         border: solid 4px rgb(131, 105, 13);}
+        div.box:nth-child(19):hover{
+        border: solid 4px rgb(75, 185, 197);}
+        div.box:nth-child(20):hover{
+        border: solid 4px rgb(189, 198, 22);}
+        div.box:nth-child(21):hover{
+        border: solid 4px rgb(32, 145, 42);}
+         div.box:nth-child(22):hover{
+        border: solid 4px rgb(30, 180, 65);}
+        div.box:nth-child(23):hover{
+        border: solid 4px rgb(223, 104, 215);}
+        div.box:nth-child(24):hover{
+        border: solid 4px rgb(70, 42, 18);}
+        div.box:nth-child(25):hover{
+            border: solid 4px rgb(164, 173, 66);}
