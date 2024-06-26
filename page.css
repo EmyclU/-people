@@ -1,0 +1,264 @@
+.pagination{
+    height: 100px;
+    display: flex;
+    margin: auto;
+    list-style: none;
+    justify-content: center;
+    background-color: #3f3e3e;
+}
+html{
+    background-color: #fafafa;
+}
+.page-link{
+    margin: 10px 10px 55px ;
+    padding: 5px 10px;
+    color:  red;
+    background-color: rgb(204, 198, 198);
+    border: solid 1px rgb(204, 198, 198);
+}
+.page-link:link{
+    text-decoration: none;
+}
+.page-link:hover{
+    background-color: aqua;
+    text-decoration: underline;
+}
+.one{
+    width: 1000px;
+    height: 1000px;
+    background-color: #3f3e3e;
+    margin: auto;
+}
+.head_box
+{
+    width: 100%;
+    height: 100px;
+    top: 0;
+    border-bottom: solid 5px#009966;
+    position: fixed;
+    background-size: contain ;
+    background-image: url(570ee03098b8fc360ad990eae6f95f76aff68bc4.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif),linear-gradient(to top, #9be15d 0%, #00e3ae 100%); 
+    background-repeat: no-repeat;
+    background-position: 5%;
+    border-radius: 9px;       
+    z-index: 999999;
+}
+div.head_box>audio{
+    position:absolute;
+    margin: 20px 0 0 2000px;
+
+}
+._head_box{
+    width: 100%;
+    height: 600px;
+    margin-top: 105px;
+    background-size:  contain;
+    background-color: white;
+    background-image: url(芝士戴夫.png);
+    background-repeat: no-repeat;
+    background-position: 100px 80px;
+}
+.Tip{
+    width: 800px;
+    height: 100px;
+    position: absolute;
+    margin: 630px 0 300px 900px;
+    background-image: linear-gradient(45deg, #874da2 0%, #c43a30 100%);
+    border-radius: 20px;
+}
+.Tip_s{
+    width: 800px;
+    height: 100px;
+    position: absolute;
+    margin: 630px 0 300px 900px;
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+    border-radius: 20px;
+}
+
+div.Tip_s>p{
+    text-align: center;
+    color: rgb(139, 230, 241);
+    font-size: 35px;
+}
+
+div.Tip>p{
+    margin: 25px 0 10px 30px;
+    color: red;
+    font-size: 30px;
+}
+.Find{
+    width: 538px;
+    height: 500px;
+    position: absolute;
+    right: 150px;
+    top: 195px;
+    background-color: #00CC00;
+    background: url(daoghang.jpeg) no-repeat ;
+    background-size: contain;
+    border-radius: 50px 50px;
+
+}
+.to_Find{
+    width: 300px;
+    height: 88px;
+    position: absolute;
+}
+.first_Find{
+    margin: 84px 0 0 66px;
+    padding-left: 20px;
+}
+.second_Find{
+    margin: 208px 0 0 73px;
+    padding-left: 20px;
+}
+.three_Find{
+    margin: 310px 0 0 97px;
+    padding-left: 20px;
+}
+._To{
+    color: black;
+    font-size: 60px;
+    letter-spacing: 10px;
+}
+.To_three{
+    font-size: 50px;
+}
+.a_head_box{
+    width: 100%;
+    height: 600px;
+}
+a._To:hover{
+    color: rgb(161, 156, 156);
+}
+.body_box{
+    width: 1680px;
+    height: 2150px;
+    background-image: linear-gradient(to top, #d5dee7 0%, #ffafbd 0%, #c9ffbf 100%);
+    margin: 150px auto;
+    border: solid 17px #fff;
+    border-radius: 30px;
+}
+.Second_body_box{
+    width: 1680px;
+    height: 2150px;
+    background-image: linear-gradient(to bottom,  #3d1635 0%, #1c1a27 20%, #80193f 50%, #801357 71%, #3d1635 84%, #1c1a27 100%);
+    margin: 150px auto;
+    border: solid 17px #fff;
+    border-radius: 30px;
+}
+.head_p{
+
+    color: white;
+    text-shadow: #fafafa;
+    font-size: 30px;
+    position: relative;
+    left: 1000px;
+    top: 10px;
+}
+.head_span{
+    color: #996633;
+    text-shadow: floralwhite;
+    font-size: 50px;
+    position: relative;
+    left: 1200px;
+    top: -80px;
+}
+.head_img{
+    width: 830px;
+    position: relative;
+    left: 870px;
+}
+._head_img{
+    width: 960px;
+    position: relative;
+    left: -30px;
+    border-radius: 50px;
+}
+div .a_head_box :hover{
+    opacity: 0.19;
+    transition: opacity 3s ease-in-out;
+}
+.box{
+    width: 260px;
+    height: 350px;
+    box-sizing: border-box;
+    cursor: pointer;
+    float: left;
+    margin: 50px 0 0 60px;
+    position: relative;
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 3px 4px 5px 5px grey;
+}
+.bridf_box{
+    width: 800px;
+    height: 750px;
+    background-color: #fff;
+    position: fixed;
+    top: 300px;
+    left: 860px;
+    background-image: linear-gradient(to top, #fa709a 0%, #fee140 100%);
+    border-radius: 50px;
+    box-shadow: 2px 3px 4px 3px #009933;
+    display: none;
+}
+.bridf_o_box{
+    width: 445px;
+    height: 675px;
+    position: absolute;
+    top: 24px;
+    left: 173px;
+}
+.bridf_img{
+    width: 445px;
+    position: absolute;
+    margin: auto;
+    border-radius: 30px;
+}
+:target{
+    display: block;
+}
+div.box:hover{
+    border: solid 4px rgb(153, 39, 153);
+}
+div.box img{
+    width: 240px;
+    height: 240px;
+    margin: 10px 0 0 10px;
+    position: relative;
+}
+._name{
+    text-align: center;
+    font-size: 20px;
+    color: red;
+    position: absolute;
+    bottom: 37px;
+    left: 81px;
+}
+.money{
+    color: rgb(233, 171, 14);
+    font-size: 30px;
+    position: absolute;
+    bottom: -18px;
+    left: 60px;
+}
+.turn{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.to{
+    float: left;
+    width:260px ;
+    height: 350px;
+    position: absolute;
+}
+div.turn>a{
+    font-size:80px;
+    position: absolute;
+    top: -45px;
+    right: -10px;
+}
+a:link{
+    text-decoration: none;
+}
